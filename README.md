@@ -1,2 +1,1 @@
-# MyFirstGitHubApp
-My First Git Hub App
+# ETH FLIP - Coin Flip app utilizing provable ETH API
